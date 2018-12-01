@@ -1,0 +1,54 @@
+{
+	"profile":{
+		"img":"penguins.jpg",
+		"name":"DeviRamya",
+		"roll":"16NN1A1243",
+		"college":"vignan nirula",
+		"place":"guntur"
+	},
+	"career":{
+		"info":"To secure a chalenging position in a reputable organisation to expand my knowledge and skills."
+	},
+	"Educational":[
+		{
+		"degree":"b.tech",
+		"institution":"vignan",
+		"yop":"2020"
+		},
+		{
+			"degree":"intermidiate",
+			"institution":"srichaithanya",
+			"yop":"2016"
+		},
+	    {
+	    	"degree":"s.s.c",
+	    	"institution":"vignan",
+	    	"yop":"2014"
+	    }
+	],
+   "languages":[
+   	{
+   		"lang":"english"
+   	},
+   	{
+   		"lang":"telugu"
+   	},
+   	{
+   		"lang":"french"
+   	}
+   ],
+   "skills":[
+   	{
+   		"title":"platforms",
+   		"content":"windows,linux"
+   	},
+   	{
+   		"title":"programming languages",
+   		"content":"c++,c,java"
+   	},
+   	{
+   		"title":"database",
+   		"content":"mysql"
+   	}
+   ]
+}
